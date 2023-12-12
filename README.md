@@ -17,3 +17,7 @@ Runway|
 Veed|
 Elevenlabs|
 Canva|
+
+
+https://python.langchain.com/docs/get_started/introduction
+https://sudarshansuraj2007.wixsite.com/dentalclinic
